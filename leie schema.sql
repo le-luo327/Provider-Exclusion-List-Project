@@ -1,0 +1,22 @@
+CREATE TABLE leie_exclusions (
+    id SERIAL PRIMARY KEY,
+    last_name VARCHAR(20),
+    first_name VARCHAR(15),
+    mid_name VARCHAR(15),
+    business_name VARCHAR(30),
+    general VARCHAR(20),
+    specialty VARCHAR(20),
+    upin VARCHAR(6),
+    npi VARCHAR(10),
+    dob DATE,
+    address VARCHAR(30),
+    city VARCHAR(20),
+    state VARCHAR(2),
+    zip VARCHAR(5),
+    excl_type VARCHAR(9),
+    excl_date DATE,
+    rein_date DATE,
+    waiver_date DATE,
+    waiver_state VARCHAR(2),
+    source VARCHAR(10) DEFAULT 'LEIE'
+);

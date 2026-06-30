@@ -1,0 +1,305 @@
+id,source_table,original_name,status,split_result
+1584,idaho_exclusions,ACHIEVING A BETTER LIFE,four_plus_word,ACHIEVING | A BETTER | LIFE
+1586,idaho_exclusions,ALTA ADDICTIONS AND MENTAL HEALTH SVCS,four_plus_word,ALTA | ADDICTIONS AND MENTAL HEALTH | SVCS
+1607,idaho_exclusions,Page 3 of 9 Name,four_plus_word,Page | 3 of 9 | Name
+1631,idaho_exclusions,Page 4 of 9 Name,four_plus_word,Page | 4 of 9 | Name
+1636,idaho_exclusions,FAMILY MENTAL HEALTH CENTER,four_plus_word,FAMILY | MENTAL HEALTH | CENTER
+1654,idaho_exclusions,Page 5 of 9 Name,four_plus_word,Page | 5 of 9 | Name
+1667,idaho_exclusions,LIVING RESOURCES OF ID AHO,four_plus_word,LIVING | RESOURCES OF ID | AHO
+1681,idaho_exclusions,Page 6 of 9 Name,four_plus_word,Page | 6 of 9 | Name
+1704,idaho_exclusions,Page 7 of 9 Name,four_plus_word,Page | 7 of 9 | Name
+1705,idaho_exclusions,REDFORD COUNSELING AND FAMILY SERVICES,four_plus_word,REDFORD | COUNSELING AND FAMILY | SERVICES
+1719,idaho_exclusions,S.E.R.V.E.,one_word, |  | S.E.R.V.E.
+1727,idaho_exclusions,Page 8 of 9 Name,four_plus_word,Page | 8 of 9 | Name
+1739,idaho_exclusions,TRITON HOME HEALTH CARE LLC,four_plus_word,TRITON | HOME HEALTH CARE | LLC
+1750,idaho_exclusions,Page 9 of 9 Name,four_plus_word,Page | 9 of 9 | Name
+1755,illinois_exclusions,7 HILLS HEALTHCARE CENTER,four_plus_word,7 | HILLS HEALTHCARE | CENTER
+1756,illinois_exclusions,7 HILLS INTEGRATED HEALTH HOME,four_plus_word,7 | HILLS INTEGRATED HEALTH | HOME
+1757,illinois_exclusions,A & C TRANSPORTATION INC.,four_plus_word,A | & C TRANSPORTATION | INC.
+1758,illinois_exclusions,A 1 HOME HEALTH CARE INC,four_plus_word,A | 1 HOME HEALTH CARE | INC
+1759,illinois_exclusions,A AND I PHARMACY INC,four_plus_word,A | AND I PHARMACY | INC
+1760,illinois_exclusions,A AND Z HOME HEALTH CARE INC,four_plus_word,A | AND Z HOME HEALTH CARE | INC
+1761,illinois_exclusions,A J 1 TRANSPORTATION CORP,four_plus_word,A | J 1 TRANSPORTATION | CORP
+1763,illinois_exclusions,A K MEDICAR INC,four_plus_word,A | K MEDICAR | INC
+1764,illinois_exclusions,A O K TRAVEL NETWORK INC,four_plus_word,A | O K TRAVEL NETWORK | INC
+1767,illinois_exclusions,A S C MEDICAR SERVICE INC,four_plus_word,A | S C MEDICAR SERVICE | INC
+1768,illinois_exclusions,A S M T INC,four_plus_word,A | S M T | INC
+1775,illinois_exclusions,ABMEDIC MEDICAL PHCY INC,four_plus_word,ABMEDIC | MEDICAL PHCY | INC
+1778,illinois_exclusions,ACADIAN DIAGNOSTIC LABS LLC,four_plus_word,ACADIAN | DIAGNOSTIC LABS | LLC
+1779,illinois_exclusions,ACCURA MEDICAL LAB INC,four_plus_word,ACCURA | MEDICAL LAB | INC
+1781,illinois_exclusions,ACCURATE MOBILE LAB SERVICES LLC,four_plus_word,ACCURATE | MOBILE LAB SERVICES | LLC
+1784,illinois_exclusions,ACTIVE HOME HEALTHCARE SERVICES INC,four_plus_word,ACTIVE | HOME HEALTHCARE SERVICES | INC
+1800,illinois_exclusions,ADVANCED CUSTOM ORTHOTICS INC,four_plus_word,ADVANCED | CUSTOM ORTHOTICS | INC
+1821,illinois_exclusions,ALCO 35TH DRUG CO,four_plus_word,ALCO | 35TH DRUG | CO
+1830,illinois_exclusions,ALEXANDER SMITH TRANS SERVICE,four_plus_word,ALEXANDER | SMITH TRANS | SERVICE
+1843,illinois_exclusions,ALL AMERICAN MEDICAL SUPPLIES,four_plus_word,ALL | AMERICAN MEDICAL | SUPPLIES
+1844,illinois_exclusions,ALL AROUND TRANSPORTATION LLC,four_plus_word,ALL | AROUND TRANSPORTATION | LLC
+1845,illinois_exclusions,ALL WELL MEDICAL SUPPLY AND TR,four_plus_word,ALL | WELL MEDICAL SUPPLY AND | TR
+1852,illinois_exclusions,ALPHA AND OMEGA TRANSIT NETWORKS INC,four_plus_word,ALPHA | AND OMEGA TRANSIT NETWORKS | INC
+1859,illinois_exclusions,ALWAYS ON TIME LLC,four_plus_word,ALWAYS | ON TIME | LLC
+1862,illinois_exclusions,AMEX INTERNATIONAL INC. D/B/A/ AMEX MEDICAR INC,four_plus_word,AMEX | INTERNATIONAL INC. D/B/A/ AMEX MEDICAR | INC
+1884,illinois_exclusions,ANNIE'S ANGELS HOME CARE,four_plus_word,ANNIE'S | ANGELS HOME | CARE
+1887,illinois_exclusions,ANTHONY D VERTINO PSYD PC,four_plus_word,ANTHONY | D VERTINO PSYD | PC
+1909,illinois_exclusions,ASHLAND CORTEZ PHARMACY INC,four_plus_word,ASHLAND | CORTEZ PHARMACY | INC
+1934,illinois_exclusions,AVMED SURGICAL SUPPLY INC,four_plus_word,AVMED | SURGICAL SUPPLY | INC
+1935,illinois_exclusions,AWESOME STAR ENTERPRISE INC,four_plus_word,AWESOME | STAR ENTERPRISE | INC
+1938,illinois_exclusions,AXESS CLINIC AND DIAGNOSTICS LLC,four_plus_word,AXESS | CLINIC AND DIAGNOSTICS | LLC
+1945,illinois_exclusions,B W PHARMACY INC,four_plus_word,B | W PHARMACY | INC
+1958,illinois_exclusions,BALLENTINE JR LARRY G,four_plus_word,BALLENTINE | JR LARRY | G
+1987,illinois_exclusions,BAYVIEW FAMILY CLINIC DANVILLE,four_plus_word,BAYVIEW | FAMILY CLINIC | DANVILLE
+1988,illinois_exclusions,BAYVIEW FAMILY CLINIC LTD,four_plus_word,BAYVIEW | FAMILY CLINIC | LTD
+2056,illinois_exclusions,BLAM MOBIL BILLBOARD TRANSPORT,four_plus_word,BLAM | MOBIL BILLBOARD | TRANSPORT
+2185,illinois_exclusions,C &C TRANSPORTATION & PACKAGE DELIVERY,four_plus_word,C | &C TRANSPORTATION & PACKAGE | DELIVERY
+2186,illinois_exclusions,C AND S CENTER PHARMACY,four_plus_word,C | AND S CENTER | PHARMACY
+2187,illinois_exclusions,C&K HOME SERVICES LLC,four_plus_word,C&K | HOME SERVICES | LLC
+2190,illinois_exclusions,CAL DEVON RX PHARMACY INC,four_plus_word,CAL | DEVON RX PHARMACY | INC
+2215,illinois_exclusions,CAPITAL TRANSPORTATION SERVICE INC,four_plus_word,CAPITAL | TRANSPORTATION SERVICE | INC
+2224,illinois_exclusions,CARING HEARTS HOME HEALTHCARE,four_plus_word,CARING | HEARTS HOME | HEALTHCARE
+2238,illinois_exclusions,CASEY FAMILY MEDICAL CENTER,four_plus_word,CASEY | FAMILY MEDICAL | CENTER
+2251,illinois_exclusions,CATCH A RIDE TRANSPORTATION INC.,four_plus_word,CATCH | A RIDE TRANSPORTATION | INC.
+2291,illinois_exclusions,CHICAGO LARAMIE PHARMACY INC,four_plus_word,CHICAGO | LARAMIE PHARMACY | INC
+2292,illinois_exclusions,CHICAGO MEDI CAR TRANSIT,four_plus_word,CHICAGO | MEDI CAR | TRANSIT
+2293,illinois_exclusions,CHICAGO MEDICAL EQUIPMENT CO,four_plus_word,CHICAGO | MEDICAL EQUIPMENT | CO
+2315,illinois_exclusions,CITY AND SUBURBAN TRANSPORTATION LLC,four_plus_word,CITY | AND SUBURBAN TRANSPORTATION | LLC
+2316,illinois_exclusions,CITY WEST TRANSPORTATION INC.,four_plus_word,CITY | WEST TRANSPORTATION | INC.
+2317,illinois_exclusions,CITY WIDE EXPRESS TRANSPORTATION,four_plus_word,CITY | WIDE EXPRESS | TRANSPORTATION
+2323,illinois_exclusions,CLARITY TESTING SERVICES LLC,four_plus_word,CLARITY | TESTING SERVICES | LLC
+2331,illinois_exclusions,CLINICAL REGIONAL LAB INC,four_plus_word,CLINICAL | REGIONAL LAB | INC
+2362,illinois_exclusions,COMPASS LABORATORY SVCS LLC,four_plus_word,COMPASS | LABORATORY SVCS | LLC
+2382,illinois_exclusions,COVENANT MED DEVICES AND SUPPLIES INC,four_plus_word,COVENANT | MED DEVICES AND SUPPLIES | INC
+2394,illinois_exclusions,CRAWFORD MEDICAL ARTS LAB,four_plus_word,CRAWFORD | MEDICAL ARTS | LAB
+2415,illinois_exclusions,D AND S DRUG STORE,four_plus_word,D | AND S DRUG | STORE
+2471,illinois_exclusions,DE JESUS RALPH T,four_plus_word,DE | JESUS RALPH | T
+2484,illinois_exclusions,DELM MEDICAL LABORATORY INC,four_plus_word,DELM | MEDICAL LABORATORY | INC
+2526,illinois_exclusions,DIVISION PULASKI PROF PHARMACY,four_plus_word,DIVISION | PULASKI PROF | PHARMACY
+2532,illinois_exclusions,DMICC,one_word, |  | DMICC
+2538,illinois_exclusions,DOBBINS,one_word, |  | DOBBINS
+2540,illinois_exclusions,DOCTORS ON WHEEL CHICAGO LTD,four_plus_word,DOCTORS | ON WHEEL CHICAGO | LTD
+2544,illinois_exclusions,DOMINION HOME HEALTH CARE INC,four_plus_word,DOMINION | HOME HEALTH CARE | INC
+2553,illinois_exclusions,DOSS GREGORY J JR,four_plus_word,DOSS | GREGORY J | JR
+2570,illinois_exclusions,DUPAGE COUNTY DIAGNOSTICS LLC,four_plus_word,DUPAGE | COUNTY DIAGNOSTICS | LLC
+2583,illinois_exclusions,E AND L PHARMACY INC,four_plus_word,E | AND L PHARMACY | INC
+2584,illinois_exclusions,E J YOUNGS DRUGS INC,four_plus_word,E | J YOUNGS DRUGS | INC
+2585,illinois_exclusions,E R AMBULANCE INC,four_plus_word,E | R AMBULANCE | INC
+2588,illinois_exclusions,EAST CALUMET PHARMACY INC,four_plus_word,EAST | CALUMET PHARMACY | INC
+2598,illinois_exclusions,EDGEWATER PLAZA DRUGS INC,four_plus_word,EDGEWATER | PLAZA DRUGS | INC
+2614,illinois_exclusions,ELITE DIAGNOSTICS LABORATORIES LLC,four_plus_word,ELITE | DIAGNOSTICS LABORATORIES | LLC
+2632,illinois_exclusions,ENGLEWOOD CLINICAL LAB INC,four_plus_word,ENGLEWOOD | CLINICAL LAB | INC
+2645,illinois_exclusions,EUSTRESS THERAPY AND WELLNESS,four_plus_word,EUSTRESS | THERAPY AND | WELLNESS
+2732,illinois_exclusions,FOX VALLEY INTERNIST INC,four_plus_word,FOX | VALLEY INTERNIST | INC
+2739,illinois_exclusions,FRANKLIN RURAL HEALTH CLINIC,four_plus_word,FRANKLIN | RURAL HEALTH | CLINIC
+2746,illinois_exclusions,FREEDOM TRANSPORT SERVICES INC,four_plus_word,FREEDOM | TRANSPORT SERVICES | INC
+2790,illinois_exclusions,GATEWAY HEALTH SYSTEMS INC,four_plus_word,GATEWAY | HEALTH SYSTEMS | INC
+2800,illinois_exclusions,GENO MEDICAR SERVICE INC,four_plus_word,GENO | MEDICAR SERVICE | INC
+2827,illinois_exclusions,GINA E SIMS DPM PC,four_plus_word,GINA | E SIMS DPM | PC
+2832,illinois_exclusions,GLOS MEDIVAC TRANSPORT LLC,four_plus_word,GLOS | MEDIVAC TRANSPORT | LLC
+2836,illinois_exclusions,GOAT MASS SWABS INC,four_plus_word,GOAT | MASS SWABS | INC
+2875,illinois_exclusions,GRAN CAL CLINICAL LAB LTD,four_plus_word,GRAN | CAL CLINICAL LAB | LTD
+2879,illinois_exclusions,GRAND BOULEVARD BEHAVORIAL HEA,four_plus_word,GRAND | BOULEVARD BEHAVORIAL | HEA
+2888,illinois_exclusions,GREAT WEST PHARMACY INC,four_plus_word,GREAT | WEST PHARMACY | INC
+2889,illinois_exclusions,GREATER ILLINOIS TRANSPORT INC,four_plus_word,GREATER | ILLINOIS TRANSPORT | INC
+2920,illinois_exclusions,H AND H TRANSPORTATION SERVICE FOR THE AGING INC,four_plus_word,H | AND H TRANSPORTATION SERVICE FOR THE AGING | INC
+2921,illinois_exclusions,H AND L PASSENGER SERVICE INC,four_plus_word,H | AND L PASSENGER SERVICE | INC
+2922,illinois_exclusions,H NH C INC,four_plus_word,H | NH C | INC
+2964,illinois_exclusions,HARRISBURG FAMILY HEALTH CARE,four_plus_word,HARRISBURG | FAMILY HEALTH | CARE
+2999,illinois_exclusions,HELPING HANDS MEDICAL SRV CAR,four_plus_word,HELPING | HANDS MEDICAL SRV | CAR
+3011,illinois_exclusions,HERE AND THERE TRANSPORTATION,four_plus_word,HERE | AND THERE | TRANSPORTATION
+3016,illinois_exclusions,HEYDE EYE CENTER SC,four_plus_word,HEYDE | EYE CENTER | SC
+3026,illinois_exclusions,HIGHER LOVE PSR SPECIAL SRVC,four_plus_word,HIGHER | LOVE PSR SPECIAL | SRVC
+3104,illinois_exclusions,I THINK I CAN LEARNING CENTER,four_plus_word,I | THINK I CAN LEARNING | CENTER
+3111,illinois_exclusions,I'LL TAKE U THERE TRANSPORTATION INC.,four_plus_word,I'LL | TAKE U THERE TRANSPORTATION | INC.
+3112,illinois_exclusions,ILLINOIS CHILDREN & FAMILY DEVELOPMENT LLC,four_plus_word,ILLINOIS | CHILDREN & FAMILY DEVELOPMENT | LLC
+3118,illinois_exclusions,INDIVIDUALIZED TREATMENT TECHNOLOGY LABORATORIES LLC,four_plus_word,INDIVIDUALIZED | TREATMENT TECHNOLOGY LABORATORIES | LLC
+3122,illinois_exclusions,INNOVATIVE TRANSPORTATION ENTERPRISE INC,four_plus_word,INNOVATIVE | TRANSPORTATION ENTERPRISE | INC
+3124,illinois_exclusions,INTEGRITY MEDICAL PHYS SUPPLY,four_plus_word,INTEGRITY | MEDICAL PHYS | SUPPLY
+3137,illinois_exclusions,J AND D TRANSPORTATION,four_plus_word,J | AND D | TRANSPORTATION
+3138,illinois_exclusions,J AND H PHARMACY INC,four_plus_word,J | AND H PHARMACY | INC
+3139,illinois_exclusions,J AND S MEDICAR SERV,four_plus_word,J | AND S MEDICAR | SERV
+3140,illinois_exclusions,J F B PHARMACY INC,four_plus_word,J | F B PHARMACY | INC
+3141,illinois_exclusions,J LESLIE ROSENBLUM INC,four_plus_word,J | LESLIE ROSENBLUM | INC
+3142,illinois_exclusions,J N F MEDICAL PHCY 1,four_plus_word,J | N F MEDICAL PHCY | 1
+3143,illinois_exclusions,J O T TRANSPORTATION COMPANY,four_plus_word,J | O T TRANSPORTATION | COMPANY
+3144,illinois_exclusions,J&S KELLY GALESBURG LLC DBA KELLY'S MEDICAL EQUIPMENT AND SUPPLY,four_plus_word,J&S | KELLY GALESBURG LLC DBA KELLY'S MEDICAL EQUIPMENT AND | SUPPLY
+3175,illinois_exclusions,JAMES L ORRINGTON II DDS PC,four_plus_word,JAMES | L ORRINGTON II DDS | PC
+3181,illinois_exclusions,JASSI EIGHTY EIGHTY INC.,four_plus_word,JASSI | EIGHTY EIGHTY | INC.
+3185,illinois_exclusions,JDISCOUNT PHARMACY AND PANTRY,four_plus_word,JDISCOUNT | PHARMACY AND | PANTRY
+3202,illinois_exclusions,JG HEALTH & WELLNESS INC,four_plus_word,JG | HEALTH & WELLNESS | INC
+3203,illinois_exclusions,JIM DANDY CAB COMPANY,four_plus_word,JIM | DANDY CAB | COMPANY
+3238,illinois_exclusions,JOLLY NURSE PRACTITIONER INC,four_plus_word,JOLLY | NURSE PRACTITIONER | INC
+3272,illinois_exclusions,K & J GLOBAL PHARMACY,four_plus_word,K | & J GLOBAL | PHARMACY
+3273,illinois_exclusions,K P TRANSPORTATION INC,four_plus_word,K | P TRANSPORTATION | INC
+3293,illinois_exclusions,KANKAKEE CAB CO INC,four_plus_word,KANKAKEE | CAB CO | INC
+3407,illinois_exclusions,L AND L MEDICAL TRANSPORTATION,four_plus_word,L | AND L MEDICAL | TRANSPORTATION
+3414,illinois_exclusions,LADY BERN MEDI CAR COMPANY,four_plus_word,LADY | BERN MEDI CAR | COMPANY
+3415,illinois_exclusions,LAKE CENTRAL PHARMACY INC,four_plus_word,LAKE | CENTRAL PHARMACY | INC
+3416,illinois_exclusions,LAKEVIEW PRESCRIPTION LAB INC,four_plus_word,LAKEVIEW | PRESCRIPTION LAB | INC
+3426,illinois_exclusions,LARR PHARMACY ENTERPRISE INC,four_plus_word,LARR | PHARMACY ENTERPRISE | INC
+3437,illinois_exclusions,LATOYA SPIVEY DBA PURPOSE DRIVING TRANSPORTATION,four_plus_word,LATOYA | SPIVEY DBA PURPOSE DRIVING | TRANSPORTATION
+3466,illinois_exclusions,LELAND MEDICAL CENTER PHCY,four_plus_word,LELAND | MEDICAL CENTER | PHCY
+3485,illinois_exclusions,LEWIS AND LEWIS TRANSPORTATION,four_plus_word,LEWIS | AND LEWIS | TRANSPORTATION
+3545,illinois_exclusions,LOYAL AND FAITHFUL TRANSPORTATION INC.,four_plus_word,LOYAL | AND FAITHFUL TRANSPORTATION | INC.
+3569,illinois_exclusions,M A C TRANSPORTATION,four_plus_word,M | A C | TRANSPORTATION
+3570,illinois_exclusions,M AND L PHARMACY INC,four_plus_word,M | AND L PHARMACY | INC
+3571,illinois_exclusions,M B M TRANSPORTATION,four_plus_word,M | B M | TRANSPORTATION
+3572,illinois_exclusions,M D T TRANSPORTATION,four_plus_word,M | D T | TRANSPORTATION
+3607,illinois_exclusions,MARION FAMILY HEALTH CARE,four_plus_word,MARION | FAMILY HEALTH | CARE
+3611,illinois_exclusions,MARTIN BEARDSTOWN PHARM LTD,four_plus_word,MARTIN | BEARDSTOWN PHARM | LTD
+3631,illinois_exclusions,MATTS TRANSPORTATION SRVCS INC,four_plus_word,MATTS | TRANSPORTATION SRVCS | INC
+3645,illinois_exclusions,MAYWOOD CLINICAL LAB INC,four_plus_word,MAYWOOD | CLINICAL LAB | INC
+3675,illinois_exclusions,MCHUGH DRUG STORE LLC,four_plus_word,MCHUGH | DRUG STORE | LLC
+3694,illinois_exclusions,MEDICAL CENTER CLINICAL LABS,four_plus_word,MEDICAL | CENTER CLINICAL | LABS
+3699,illinois_exclusions,MEDSTAR,one_word, |  | MEDSTAR
+3708,illinois_exclusions,MERKAVA TRANSPORTATION CONSULTANTS LLC,four_plus_word,MERKAVA | TRANSPORTATION CONSULTANTS | LLC
+3723,illinois_exclusions,MID POINT HOME CARE,four_plus_word,MID | POINT HOME | CARE
+3813,illinois_exclusions,MOWEAQUA FAMILY PRAC CTR LTD,four_plus_word,MOWEAQUA | FAMILY PRAC CTR | LTD
+3842,illinois_exclusions,MY KIDZ TRANSPORTATION INC.,four_plus_word,MY | KIDZ TRANSPORTATION | INC.
+3859,illinois_exclusions,NATIONAL CLINICAL LABS INC,four_plus_word,NATIONAL | CLINICAL LABS | INC
+3872,illinois_exclusions,NEW ATHENS HOME FOR THE AGED,four_plus_word,NEW | ATHENS HOME FOR THE | AGED
+3896,illinois_exclusions,NORTH MANGO PHARMACY INC,four_plus_word,NORTH | MANGO PHARMACY | INC
+3900,illinois_exclusions,NORTHWEST MEDICAL LAB INC,four_plus_word,NORTHWEST | MEDICAL LAB | INC
+3915,illinois_exclusions,O FALLON PLAZA DRUG EAST INC,four_plus_word,O | FALLON PLAZA DRUG EAST | INC
+3936,illinois_exclusions,OM RED GANESH LLC,four_plus_word,OM | RED GANESH | LLC
+3941,illinois_exclusions,OPHTHALMOLOGY CENTER OF ILLINOIS,four_plus_word,OPHTHALMOLOGY | CENTER OF | ILLINOIS
+3971,illinois_exclusions,PARAMOUNT HEALTH SYSTEMS INC,four_plus_word,PARAMOUNT | HEALTH SYSTEMS | INC
+4009,illinois_exclusions,PATHWAY TO HEAVEN TRANSPORTATION,four_plus_word,PATHWAY | TO HEAVEN | TRANSPORTATION
+4015,illinois_exclusions,PAVILION OF FOREST PARK,four_plus_word,PAVILION | OF FOREST | PARK
+4017,illinois_exclusions,PAYLESS DISC DRUGS INC,four_plus_word,PAYLESS | DISC DRUGS | INC
+4033,illinois_exclusions,PERRY RUDICH MD SC,four_plus_word,PERRY | RUDICH MD | SC
+4046,illinois_exclusions,PHYSICIAN RURAL HEALTH CLINIC,four_plus_word,PHYSICIAN | RURAL HEALTH | CLINIC
+4052,illinois_exclusions,PICKUP AND GO TRANSPORTATION,four_plus_word,PICKUP | AND GO | TRANSPORTATION
+4067,illinois_exclusions,PONY SYSTEMS LTD INC,four_plus_word,PONY | SYSTEMS LTD | INC
+4088,illinois_exclusions,PRECIOUS NURSES HEALTH CARE,four_plus_word,PRECIOUS | NURSES HEALTH | CARE
+4089,illinois_exclusions,PRECISE AMBULANCE SRVC LLC,four_plus_word,PRECISE | AMBULANCE SRVC | LLC
+4095,illinois_exclusions,PRIMECARE MEDICAR SERVICES IN,four_plus_word,PRIMECARE | MEDICAR SERVICES | IN
+4100,illinois_exclusions,PROFESSIONAL PSYCHIATRY AND COUNSELING,four_plus_word,PROFESSIONAL | PSYCHIATRY AND | COUNSELING
+4105,illinois_exclusions,PSYCH CARE CONSULTANTS LLC,four_plus_word,PSYCH | CARE CONSULTANTS | LLC
+4112,illinois_exclusions,PURPLE HEART MEDICAL TRANS CO,four_plus_word,PURPLE | HEART MEDICAL TRANS | CO
+4113,illinois_exclusions,PURPLE HEART RENTAL SYSTEM,four_plus_word,PURPLE | HEART RENTAL | SYSTEM
+4120,illinois_exclusions,QUALITY THERAPY & CNSLTN INC,four_plus_word,QUALITY | THERAPY & CNSLTN | INC
+4130,illinois_exclusions,R & L TRANSPORTATION LLC,four_plus_word,R | & L TRANSPORTATION | LLC
+4131,illinois_exclusions,R AND M PHARMACY INC,four_plus_word,R | AND M PHARMACY | INC
+4132,illinois_exclusions,R M W PHARMACY INC,four_plus_word,R | M W PHARMACY | INC
+4145,illinois_exclusions,RAO MOHAN C R,four_plus_word,RAO | MOHAN C | R
+4147,illinois_exclusions,RAPID HEALTHCARE LABORATORY LLC,four_plus_word,RAPID | HEALTHCARE LABORATORY | LLC
+4164,illinois_exclusions,RECOVERY PLUS TWO TRANS,four_plus_word,RECOVERY | PLUS TWO | TRANS
+4173,illinois_exclusions,REGENCY MEDICAL CENTER P.C.,four_plus_word,REGENCY | MEDICAL CENTER | P.C.
+4174,illinois_exclusions,REGENESIS HEALTH SERVICES INC,four_plus_word,REGENESIS | HEALTH SERVICES | INC
+4180,illinois_exclusions,REN F DUARTE PSYD INC,four_plus_word,REN | F DUARTE PSYD | INC
+4186,illinois_exclusions,RESILIENCE HEALTHCARE -WEISS MEMORIAL HOSPITAL LLC,four_plus_word,RESILIENCE | HEALTHCARE -WEISS MEMORIAL HOSPITAL | LLC
+4199,illinois_exclusions,RIDE E Z LLC,four_plus_word,RIDE | E Z | LLC
+4212,illinois_exclusions,ROBERT HAMPTON DBA. COME BACK TRANSPORTATION,four_plus_word,ROBERT | HAMPTON DBA. COME BACK | TRANSPORTATION
+4225,illinois_exclusions,ROCKFORD NURSING REHAB CENTER,four_plus_word,ROCKFORD | NURSING REHAB | CENTER
+4235,illinois_exclusions,ROGERS PARK PHARMACY INC,four_plus_word,ROGERS | PARK PHARMACY | INC
+4251,illinois_exclusions,ROYAL TRANSPORTATION MEDIC CAR,four_plus_word,ROYAL | TRANSPORTATION MEDIC | CAR
+4262,illinois_exclusions,S AND L TRANSPORTATION,four_plus_word,S | AND L | TRANSPORTATION
+4263,illinois_exclusions,S AND P PHARMACY INC,four_plus_word,S | AND P PHARMACY | INC
+4264,illinois_exclusions,S AND S DURABLE MED EQUIPMENT,four_plus_word,S | AND S DURABLE MED | EQUIPMENT
+4265,illinois_exclusions,S AND S PHARMACY,four_plus_word,S | AND S | PHARMACY
+4288,illinois_exclusions,SANDERS AND ROHR AMB SERVICE,four_plus_word,SANDERS | AND ROHR AMB | SERVICE
+4419,illinois_exclusions,SME MEDICAL EQUIPMENT INC,four_plus_word,SME | MEDICAL EQUIPMENT | INC
+4451,illinois_exclusions,SOUTH CHICAGO LAB LIMITED,four_plus_word,SOUTH | CHICAGO LAB | LIMITED
+4453,illinois_exclusions,SOUTHERN ILLINOIS MEDICAL SPEC,four_plus_word,SOUTHERN | ILLINOIS MEDICAL | SPEC
+4455,illinois_exclusions,SOUTHSIDE FAMILY DRUGS INC,four_plus_word,SOUTHSIDE | FAMILY DRUGS | INC
+4487,illinois_exclusions,STARCARE LAB SOLUTIONS LLC,four_plus_word,STARCARE | LAB SOLUTIONS | LLC
+4526,illinois_exclusions,STROEHMER FRANK C III,four_plus_word,STROEHMER | FRANK C | III
+4534,illinois_exclusions,SUCK- OO KIM M. D.,four_plus_word,SUCK- | OO KIM M. | D.
+4545,illinois_exclusions,SUNSHINE EXPRESS TRANSPORTATION SERVICE INC.,four_plus_word,SUNSHINE | EXPRESS TRANSPORTATION SERVICE | INC.
+4546,illinois_exclusions,SUPER CARE MEDICAL SUPPLIES,four_plus_word,SUPER | CARE MEDICAL | SUPPLIES
+4569,illinois_exclusions,T G W INC,four_plus_word,T | G W | INC
+4578,illinois_exclusions,TAN MICHAEL S K,four_plus_word,TAN | MICHAEL S | K
+4594,illinois_exclusions,TAYLOR MAE TRANSPORTATION INC,four_plus_word,TAYLOR | MAE TRANSPORTATION | INC
+4612,illinois_exclusions,THE 2839 MADISON PHARMACY INC,four_plus_word,THE | 2839 MADISON PHARMACY | INC
+4613,illinois_exclusions,THE 3601 PHARMACY INC,four_plus_word,THE | 3601 PHARMACY | INC
+4614,illinois_exclusions,THE 63RD AND ELLIS PHCY,four_plus_word,THE | 63RD AND ELLIS | PHCY
+4615,illinois_exclusions,THE A AND A PHARMACY,four_plus_word,THE | A AND A | PHARMACY
+4616,illinois_exclusions,THE LAFEMEE PHARMACY INC,four_plus_word,THE | LAFEMEE PHARMACY | INC
+4659,illinois_exclusions,TNT MEDIVAN TRANSPORTATION INC,four_plus_word,TNT | MEDIVAN TRANSPORTATION | INC
+4663,illinois_exclusions,TOP NOTCH TRANSPORTATION INC.,four_plus_word,TOP | NOTCH TRANSPORTATION | INC.
+4668,illinois_exclusions,TOUHY PHARMACY ENTERPRISES INC,four_plus_word,TOUHY | PHARMACY ENTERPRISES | INC
+4676,illinois_exclusions,TRUNG TIN GIFT AND PHARMACY,four_plus_word,TRUNG | TIN GIFT AND | PHARMACY
+4699,illinois_exclusions,UNIVERSAL PUBLIC TRANSPORT INC,four_plus_word,UNIVERSAL | PUBLIC TRANSPORT | INC
+4734,illinois_exclusions,VICTORY MEDICAL SUPPLY INC,four_plus_word,VICTORY | MEDICAL SUPPLY | INC
+4737,illinois_exclusions,VILLAGE GROVE PHARMACY INC,four_plus_word,VILLAGE | GROVE PHARMACY | INC
+4745,illinois_exclusions,VISTALINK HEALTH LABORATORIES LLC,four_plus_word,VISTALINK | HEALTH LABORATORIES | LLC
+4747,illinois_exclusions,VIVA ADVANCED HEALTHCARE ILLINOIS INC,four_plus_word,VIVA | ADVANCED HEALTHCARE ILLINOIS | INC
+4755,illinois_exclusions,W AND G TRANSPORTATION,four_plus_word,W | AND G | TRANSPORTATION
+4756,illinois_exclusions,W AND W TRANSPORTATION,four_plus_word,W | AND W | TRANSPORTATION
+4771,illinois_exclusions,WALLACE CONVERSION VANS TRAN,four_plus_word,WALLACE | CONVERSION VANS | TRAN
+4818,illinois_exclusions,WEE CARE TRANSPORTATION INC,four_plus_word,WEE | CARE TRANSPORTATION | INC
+4841,illinois_exclusions,WESTERN AVENUE MED PHCY INC,four_plus_word,WESTERN | AVENUE MED PHCY | INC
+4886,illinois_exclusions,WILSON AND SMITH INC.,four_plus_word,WILSON | AND SMITH | INC.
+4897,illinois_exclusions,WINDY CITY MEDICAL SUPPLY INC.,four_plus_word,WINDY | CITY MEDICAL SUPPLY | INC.
+4921,illinois_exclusions,WOODY KELLY COUNSELING INC.,four_plus_word,WOODY | KELLY COUNSELING | INC.
+4930,illinois_exclusions,WU FON YEI SUN,four_plus_word,WU | FON YEI | SUN
+4932,illinois_exclusions,Y O G SISTERS TRANSPORT INC,four_plus_word,Y | O G SISTERS TRANSPORT | INC
+4948,illinois_exclusions,YES WE CAN INC.,four_plus_word,YES | WE CAN | INC.
+4956,illinois_exclusions,YOUNG WELDON A JR,four_plus_word,YOUNG | WELDON A | JR
+4966,illinois_exclusions,Z & E TRANSPORTATION,four_plus_word,Z | & E | TRANSPORTATION
+4969,illinois_exclusions,ZALWANGO HEALTH & WELLNESS,four_plus_word,ZALWANGO | HEALTH & | WELLNESS
+4995,indiana_exclusions,The Mary Lane Center,four_plus_word,The | Mary Lane | Center
+4998,indiana_exclusions,Quality Home Health Care Inc.,four_plus_word,Quality | Home Health Care | Inc.
+5004,indiana_exclusions,Accredited Universal Home Health,four_plus_word,Accredited | Universal Home | Health
+5007,indiana_exclusions,J Medical Bracing LLC,four_plus_word,J | Medical Bracing | LLC
+5010,indiana_exclusions,Center for Advanced Spine Technologies,four_plus_word,Center | for Advanced Spine | Technologies
+5012,indiana_exclusions,Coping and Healing Behavioral Health Services,four_plus_word,Coping | and Healing Behavioral Health | Services
+5013,indiana_exclusions,Tender Care Mobile X-Ray Inc.,four_plus_word,Tender | Care Mobile X-Ray | Inc.
+5018,indiana_exclusions,The Drug Store Inc.,four_plus_word,The | Drug Store | Inc.
+5020,indiana_exclusions,USA Pathology & Toxicology,four_plus_word,USA | Pathology & | Toxicology
+5029,indiana_exclusions,Centrad,one_word, |  | Centrad
+5031,indiana_exclusions,Classic Homes by Graber Bros,four_plus_word,Classic | Homes by Graber | Bros
+5038,indiana_exclusions,North Judson Family Dental Center,four_plus_word,North | Judson Family Dental | Center
+5044,indiana_exclusions,Heart and Soul Personal Care,four_plus_word,Heart | and Soul Personal | Care
+5064,indiana_exclusions,Albert S Aid-Toss M.D.,four_plus_word,Albert | S Aid-Toss | M.D.
+5073,indiana_exclusions,Jarrod A Little M.D.,four_plus_word,Jarrod | A Little | M.D.
+5074,indiana_exclusions,DUNGARVIN INDIANA PERSONAL SERVICES AGENCY,four_plus_word,DUNGARVIN | INDIANA PERSONAL SERVICES | AGENCY
+5076,indiana_exclusions,111 Personal Home Care,four_plus_word,111 | Personal Home | Care
+5080,indiana_exclusions,Wayne P Major M.D.,four_plus_word,Wayne | P Major | M.D.
+5082,indiana_exclusions,Access One By MSD Inc,four_plus_word,Access | One By MSD | Inc
+5085,indiana_exclusions,Midwest Pain Clinic Interventional,four_plus_word,Midwest | Pain Clinic | Interventional
+5088,indiana_exclusions,Midwest Pain Clinic Interventional LLC,four_plus_word,Midwest | Pain Clinic Interventional | LLC
+5095,indiana_exclusions,University Medical Center of New Orleans,four_plus_word,University | Medical Center of New | Orleans
+5096,indiana_exclusions,ELITE HEALTHCARE OF MUNCIE INC,four_plus_word,ELITE | HEALTHCARE OF MUNCIE | INC
+5107,indiana_exclusions,Indiana Pediatric Dental & Anesthesia LLC,four_plus_word,Indiana | Pediatric Dental & Anesthesia | LLC
+5110,indiana_exclusions,Michael S Hoagburg D.D.S,four_plus_word,Michael | S Hoagburg | D.D.S
+5111,indiana_exclusions,Leonel G Caudra M.D. ,four_plus_word,Leonel | G Caudra | M.D.
+5114,indiana_exclusions,William D Hudson M.D.,four_plus_word,William | D Hudson | M.D.
+5116,indiana_exclusions,Greenhouse & Associates INC,four_plus_word,Greenhouse | & Associates | INC
+5120,indiana_exclusions,William D Moore M.D.,four_plus_word,William | D Moore | M.D.
+5129,indiana_exclusions,Michael S Miller M.D.,four_plus_word,Michael | S Miller | M.D.
+5132,indiana_exclusions,Elis Y Olson M.D.,four_plus_word,Elis | Y Olson | M.D.
+6408,kansas_exclusions,Center for Independent Living SWK,four_plus_word,Center | for Independent Living | SWK
+6413,kansas_exclusions,Always There Home Care,four_plus_word,Always | There Home | Care
+6425,kansas_exclusions,OurLab,one_word, |  | OurLab
+6434,kansas_exclusions,Midwest Medical Services LLC,four_plus_word,Midwest | Medical Services | LLC
+6441,kansas_exclusions,Med Care Diabetic Medical Supplies,four_plus_word,Med | Care Diabetic Medical | Supplies
+6442,kansas_exclusions,USA Pathology and Toxicology,four_plus_word,USA | Pathology and | Toxicology
+6452,kansas_exclusions,Carepoint Medical (Diamedix Healthcare),four_plus_word,Carepoint | Medical (Diamedix | Healthcare)
+6454,kansas_exclusions,Kansas City Internal Medicine,four_plus_word,Kansas | City Internal | Medicine
+6455,kansas_exclusions,Kohlls Pharmacy and Homecare Inc,four_plus_word,Kohlls | Pharmacy and Homecare | Inc
+6459,kansas_exclusions,Innovative Mobile Services LLC,four_plus_word,Innovative | Mobile Services | LLC
+6467,kansas_exclusions,Jennifer Figge / Jennifer Ayala,four_plus_word,Jennifer | Figge / Jennifer | Ayala
+6491,kansas_exclusions,Kelli Nicole Ross / Kelli Nicole Deslattes,four_plus_word,Kelli | Nicole Ross / Kelli Nicole | Deslattes
+6492,kansas_exclusions,Tera Lynn Shirley / Tera Lynn Davey,four_plus_word,Tera | Lynn Shirley / Tera Lynn | Davey
+6501,kansas_exclusions,Leanne M. Karr / Leanne M. Martin / Leanne M. Wilson,four_plus_word,Leanne | M. Karr / Leanne M. Martin / Leanne M. | Wilson
+6503,kansas_exclusions,Michelle D. Washington / Michelle D. Oliver / Michelle D. Williams,four_plus_word,Michelle | D. Washington / Michelle D. Oliver / Michelle D. | Williams
+6504,kansas_exclusions,Seung Hee Lee / Lisa Lee,four_plus_word,Seung | Hee Lee / Lisa | Lee
+6508,kansas_exclusions,Caitlin Janel Connors / Caitlin Janel Diebold,four_plus_word,Caitlin | Janel Connors / Caitlin Janel | Diebold
+6511,kansas_exclusions,Emanuele Paul DiMattia / Manny DiMattia,four_plus_word,Emanuele | Paul DiMattia / Manny | DiMattia
+6516,kansas_exclusions,William Carl Morris II / Bill Carl Morris II,four_plus_word,William | Carl Morris II / Bill Carl Morris | II
+6521,kansas_exclusions,Kyla Kongvongsay / Kyla E. Kongvongsay,four_plus_word,Kyla | Kongvongsay / Kyla E. | Kongvongsay
+6525,kansas_exclusions,Vicki Heigele / Vicki J. Heigele,four_plus_word,Vicki | Heigele / Vicki J. | Heigele
+6527,kansas_exclusions,Stacy L. Schaefer / Stacy Lynn Schaefer,four_plus_word,Stacy | L. Schaefer / Stacy Lynn | Schaefer
+6534,kansas_exclusions,Theresa Marie Velasco / Theresa Rupp,four_plus_word,Theresa | Marie Velasco / Theresa | Rupp
+6540,kansas_exclusions,Kiera Marie Drinnen / Kierra Marie Drinnen,four_plus_word,Kiera | Marie Drinnen / Kierra Marie | Drinnen
+6542,kansas_exclusions,Melissa Ryan Harrison / Melissa R. Grabenbauer,four_plus_word,Melissa | Ryan Harrison / Melissa R. | Grabenbauer
+6546,kansas_exclusions,Erica Dawn Peterman / Erica Dawn Higgins,four_plus_word,Erica | Dawn Peterman / Erica Dawn | Higgins
+6547,kansas_exclusions,Carl A West / Carl A West Jr.,four_plus_word,Carl | A West / Carl A West | Jr.
+6548,kansas_exclusions,Glenda R Fansler / Glenda Rose Reinersten,four_plus_word,Glenda | R Fansler / Glenda Rose | Reinersten
+6560,kansas_exclusions,Serenity Therapy Services LLC,four_plus_word,Serenity | Therapy Services | LLC
+6563,kansas_exclusions,Brittany Michelle Endres / Brittney Michelle Kennedy ,four_plus_word,Brittany | Michelle Endres / Brittney Michelle | Kennedy
+6564,kansas_exclusions,Arinze Sampson Dike Jr.,four_plus_word,Arinze | Sampson Dike | Jr.
+6567,kansas_exclusions,Excel Healthcare and Rehab Topeka,four_plus_word,Excel | Healthcare and Rehab | Topeka
+6570,kansas_exclusions,Aaliyah Millenia Denise Williams,four_plus_word,Aaliyah | Millenia Denise | Williams
+6580,kansas_exclusions,East Ohio Hospital LLC,four_plus_word,East | Ohio Hospital | LLC
+6595,kansas_exclusions,Global Wound Care Medical Group,four_plus_word,Global | Wound Care Medical | Group
+6596,kansas_exclusions,Earl B. Maes III,four_plus_word,Earl | B. Maes | III

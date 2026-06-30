@@ -1,0 +1,352 @@
+page,row,column,raw,joined
+1,7,alias_first_name_1,'ABDIRA\nSHID',ABDIRASHID
+1,7,alias_first_name_2,'ABDIRAS\nHID',ABDIRASHID
+1,7,alias_last_name_3,'ABDIRAS\nHID\nHASSAN',ABDIRASHIDHASSAN
+1,7,alias_first_name_3,'ABDIRAS\nHID',ABDIRASHID
+1,7,alias_first_name_4,'ABDIVAS\nHID H',ABDIVASHID H
+1,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+1,14,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+2,13,last_name,'AROOSTOOK\nENT CLINIC',AROOSTOOKENT CLINIC
+2,14,last_name,'AROOSTOOK\nENT CLINIC',AROOSTOOKENT CLINIC
+2,15,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+3,3,provider_type,'Business\nManager',Business Manager
+3,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+4,2,alias_first_name_1,'STACIE\nL.',STACIEL.
+4,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+4,11,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+4,12,alias_first_name_1,'Stephani\ne',Stephanie
+4,12,alias_first_name_2,'Stephain\ne',Stephaine
+5,2,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+5,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+5,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+5,11,provider_type,'49-Physical\nTherapist',49-Physical Therapist
+5,13,last_name,'BETTER\nHEALTH CARE',BETTERHEALTH CARE
+5,13,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+6,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+7,3,alias_last_name_1,'ROBERTSO\nN',ROBERTSON
+7,3,alias_first_name_1,'MICHEL\nE',MICHELE
+7,7,alias_first_name_1,'B\nBouquet',BBouquet
+7,14,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+7,15,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+8,5,first_name,'JACQUELIN\nE',JACQUELINE
+8,10,alias_first_name_1,'MICHELL\nE M.',MICHELLE M.
+8,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+9,2,last_name,'BROWNELL-\nBERRY',BROWNELL-BERRY
+9,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+9,5,alias_last_name_3,"'Bruns,\nKaitlyn'","Bruns,Kaitlyn"
+9,7,provider_type,'Nursing Home\nEmployee',Nursing Home Employee
+9,8,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+9,9,alias_last_name_2,'Bulaya\nNoli',BulayaNoli
+9,12,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+9,13,alias_first_name_1,'JOANNE\nDORIS',JOANNEDORIS
+10,5,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+10,6,provider_type,'Business\nManager',Business Manager
+10,7,alias_last_name_1,'MACARTHU\nR',MACARTHUR
+10,7,alias_first_name_1,'LAURA\nA.',LAURAA.
+10,13,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+11,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+11,12,last_name,'CENTER FOR\nBEING\nFOUNDATION',CENTER FORBEINGFOUNDATION
+11,12,provider_type,'38-Mental Health\nClinic',38-Mental Health Clinic
+11,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+11,14,last_name,'CHAMBERLAI\nN',CHAMBERLAIN
+12,2,last_name,'CHAMBERLAI\nN',CHAMBERLAIN
+12,3,alias_last_name_2,'Schoonma\nker',Schoonmaker
+12,5,provider_type,'02-Advanced\nPractice\nRegistered Nurse',02-Advanced Practice Registered Nurse
+12,8,provider_type,'49-Physical\nTherapist',49-Physical Therapist
+12,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+12,12,alias_first_name_1,'TAMARA\nL.',TAMARAL.
+12,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+13,14,alias_last_name_1,'GAMAL-\nELDIN',GAMAL-ELDIN
+13,14,alias_first_name_1,'CAROLY\nN',CAROLYN
+14,2,alias_first_name_1,'JESSICA\nL.',JESSICAL.
+14,2,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+14,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+14,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+14,7,first_name,'CHRISTOP\nHER',CHRISTOPHER
+14,9,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+14,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+14,13,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+15,3,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+15,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+15,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+15,10,provider_type,'20-Dental\nHygienist',20-Dental Hygienist
+15,11,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+16,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+16,12,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+16,13,provider_type,'63-Speech\nLanguage\nPathologist',63-Speech Language Pathologist
+17,4,alias_first_name_1,'Nastassj\na',Nastassja
+17,11,alias_first_name_1,'SUSAN\nL.',SUSANL.
+17,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+18,4,alias_last_name_3,'Dauphinne\ne',Dauphinnee
+18,5,alias_first_name_1,'RACHEL\nA.',RACHELA.
+18,7,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+18,10,alias_last_name_2,'Deloshero\ns',Delosheros
+18,12,provider_type,'Radiology\nTechnician',Radiology Technician
+18,13,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+19,2,alias_last_name_1,'DEFOSSES\nTROUT',DEFOSSESTROUT
+19,2,alias_first_name_1,'DANIELL\nE',DANIELLE
+19,2,alias_first_name_2,'DANELL\nE',DANELLE
+19,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+19,5,provider_type,'49-Physical\nTherapist',49-Physical Therapist
+19,14,alias_first_name_1,'Henri\nPaul',HenriPaul
+20,4,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+20,8,first_name,'CHRISTOP\nHER',CHRISTOPHER
+20,8,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+20,11,last_name,'DONEGAL\nTOWN INC.',DONEGALTOWN INC.
+20,11,provider_type,'73-Waiver\nServices Provider',73-Waiver Services Provider
+20,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+21,7,alias_first_name_1,'MELLET\nTE A.',MELLETTE A.
+21,7,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+21,16,provider_type,'Radiology\nTechnician',Radiology Technician
+22,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+22,8,last_name,'DURLAND-\nMCDERMOTT',DURLAND-MCDERMOTT
+22,12,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+22,15,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+23,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+23,8,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+23,10,provider_type,'Medical\nTechnician',Medical Technician
+23,11,alias_first_name_1,'Stephani\ne D',Stephanie D
+23,11,alias_first_name_2,'Stephann\nie D',Stephannie D
+23,11,alias_first_name_3,'Stephann\nie',Stephannie
+24,3,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+24,8,provider_type,'69-Substance\nAbuse Provider',69-Substance Abuse Provider
+24,9,alias_last_name_1,'PARMENTE\nR',PARMENTER
+24,9,alias_first_name_1,'PATRICI\nA ANN',PATRICIA ANN
+24,9,alias_last_name_2,'PARMENT\nER',PARMENTER
+24,12,alias_first_name_1,"'FLOYD,\nALONA A'","FLOYD,ALONA A"
+24,14,alias_first_name_1,'C.\nThomas',C.Thomas
+24,14,alias_first_name_3,'Carl\nThomas',CarlThomas
+24,14,alias_first_name_4,'C.\nThomas',C.Thomas
+25,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+25,8,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+25,11,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+25,15,last_name,'Fuller-\nMcMahan',Fuller-McMahan
+26,3,provider_type,'02-Advanced\nPractice\nRegistered Nurse',02-Advanced Practice Registered Nurse
+26,8,provider_type,'07-Assisted Living\nService Provider',07-Assisted Living Service Provider
+26,13,provider_type,'49-Physical\nTherapist',49-Physical Therapist
+27,2,provider_type,'73-Waiver\nServices Provider',73-Waiver Services Provider
+27,5,provider_type,'Medical\nTechnician',Medical Technician
+27,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+27,11,alias_first_name_1,'MARGA\nRET L.',MARGARET L.
+27,11,provider_type,'Consumer/Memb\ner',Consumer/Memb er
+27,12,alias_first_name_1,'Bobbie\nJo',BobbieJo
+28,5,alias_first_name_2,'Christoph\ner',Christopher
+28,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+28,11,alias_first_name_1,'Timothy\nBeth',TimothyBeth
+28,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+28,14,last_name,'Goodwin-\nMoore',Goodwin-Moore
+29,10,alias_first_name_1,'SUSAN\nL.',SUSANL.
+29,12,alias_last_name_1,"'GRIFFIN,\nJR.'","GRIFFIN,JR."
+29,12,alias_first_name_1,'JAMES\nE.',JAMESE.
+29,13,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+29,14,alias_first_name_1,'SHERRY\nL.',SHERRYL.
+29,14,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+30,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+30,4,provider_type,'Business\nManager',Business Manager
+30,5,provider_type,'Consumer/Memb\ner',Consumer/Memb er
+30,7,alias_first_name_1,'Queencili\na',Queencilia
+30,7,alias_first_name_4,'Queencili\na',Queencilia
+31,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+31,7,last_name,'HAMRICK-\nBURWELL',HAMRICK-BURWELL
+31,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+32,5,last_name,'HART-\nLECLERC',HART-LECLERC
+32,10,alias_last_name_2,'HATHAW\nAY',HATHAWAY
+32,10,alias_last_name_3,'HATHAWA\nY',HATHAWAY
+32,10,alias_first_name_3,'CHRIST\nOPH',CHRISTOPH
+33,3,provider_type,'02-Advanced\nPractice\nRegistered Nurse',02-Advanced Practice Registered Nurse
+33,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+33,8,alias_last_name_1,'Nivison-\nHichborn',Nivison-Hichborn
+34,6,alias_last_name_1,'RICHARDS\nON',RICHARDSON
+34,6,alias_first_name_3,'LINDA\nANN',LINDAANN
+34,6,alias_last_name_4,'PUNTOLIL\nLO',PUNTOLILLO
+34,7,alias_first_name_1,'Herman\nOscar',HermanOscar
+34,9,provider_type,'Radiology\nTechnician',Radiology Technician
+34,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+34,11,alias_first_name_1,'Diane\nHope',DianeHope
+35,2,alias_last_name_1,'TIMBERLAK\nE',TIMBERLAKE
+35,2,alias_first_name_1,'CHERYL\nA.',CHERYLA.
+35,7,alias_first_name_1,'Kimberly\nA',KimberlyA
+35,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+35,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+35,12,alias_first_name_1,'CLARA\nMARIE',CLARAMARIE
+35,12,alias_first_name_2,'CLARA\nMARIE',CLARAMARIE
+35,14,alias_last_name_1,'GULCHINS\nON',GULCHINSON
+36,4,provider_type,'50-Physical\nTherapist\nAssistant',50-Physical Therapist Assistant
+36,5,last_name,'INDEPENDEN\nT HOMECARE\nINC',INDEPENDENT HOMECAREINC
+36,5,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+36,10,alias_first_name_1,'Deanna\nD',DeannaD
+37,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+37,12,provider_type,'Medical\nTechnician',Medical Technician
+38,2,alias_first_name_1,'Tchernav\nia',Tchernavia
+38,2,alias_last_name_2,'McKinnis\nJohnson',McKinnisJohnson
+38,2,alias_first_name_2,'Tchernavi\na',Tchernavia
+38,4,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+38,12,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+38,13,alias_first_name_1,'RUSSEL\nL ALAN',RUSSELL ALAN
+38,13,alias_first_name_2,'RUSSEL\nL ALAN',RUSSELL ALAN
+39,3,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+39,6,alias_first_name_1,'Alan\nMichael',AlanMichael
+39,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+39,10,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+39,12,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+40,4,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+40,6,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+40,8,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+40,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+41,6,last_name,'KOENIG-\nHENRY',KOENIG-HENRY
+41,9,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+41,10,last_name,'KORZENIEWS\nKI',KORZENIEWSKI
+41,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+41,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+41,13,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+41,14,alias_first_name_1,'Amy\nElizabeth',AmyElizabeth
+42,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+42,11,alias_last_name_2,'Landsama\nn',Landsaman
+42,11,alias_first_name_3,'Ann\nMarsha',AnnMarsha
+42,11,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+42,12,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+43,4,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+43,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+43,8,alias_last_name_1,'LAZARO-\nPAULINA',LAZARO-PAULINA
+44,2,alias_first_name_1,'Crissy\nMarie',CrissyMarie
+44,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+45,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+45,7,alias_first_name_1,'LIBERAT\nO',LIBERATO
+46,2,alias_first_name_1,'Trina\nMarie',TrinaMarie
+46,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+47,5,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+47,11,provider_type,'Business\nManager',Business Manager
+48,2,alias_first_name_1,'SUZANN\nE M.',SUZANNE M.
+48,3,alias_first_name_1,'ANGELA\nM.',ANGELAM.
+48,4,first_name,'CASSANDR\nA',CASSANDRA
+48,8,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+48,10,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+48,12,first_name,'MORNINGS\nTAR',MORNINGSTAR
+48,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+49,3,provider_type,'49-Physical\nTherapist',49-Physical Therapist
+49,13,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+49,15,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+50,4,provider_type,'Business\nManager',Business Manager
+50,5,last_name,'MCGOVERN\nAMBULANCE',MCGOVERNAMBULANCE
+50,7,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+51,4,alias_first_name_1,'STEPHA\nNIE',STEPHANIE
+51,13,alias_first_name_1,'DEBORA\nH',DEBORAH
+51,14,alias_first_name_1,'Tchernav\nia',Tchernavia
+51,14,alias_last_name_2,'McKinnis\nJohnson',McKinnisJohnson
+51,14,alias_first_name_2,'Tchernavi\na',Tchernavia
+52,3,alias_first_name_1,'DEBORA\nH L.',DEBORAH L.
+52,3,alias_first_name_2,'DEBORA\nH L.',DEBORAH L.
+52,5,first_name,'CHRISTOP\nHER',CHRISTOPHER
+52,6,first_name,'CATHERIN\nE',CATHERINE
+52,7,provider_type,'Business\nManager',Business Manager
+52,8,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+52,9,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+52,13,first_name,'ABDIRAHM\nAN',ABDIRAHMAN
+53,4,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+53,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+53,12,alias_first_name_1,'Samanth\na',Samantha
+53,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+54,2,alias_first_name_1,'Michael\nL.',MichaelL.
+54,2,alias_first_name_2,'Michael\nR.',MichaelR.
+54,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+54,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+54,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+54,11,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+54,13,alias_first_name_1,'Hohonori\nne',Hohonorine
+54,13,alias_last_name_2,'Matamuriz\na',Matamuriza
+55,6,alias_first_name_1,'Alexandri\na',Alexandria
+55,6,alias_first_name_4,'Alexandri\na',Alexandria
+55,6,provider_type,'52-Physician\nAssistant',52-Physician Assistant
+56,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+56,5,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+56,13,provider_type,'13-Boarding\nHome',13-Boarding Home
+57,3,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+57,6,alias_last_name_2,'Escobar-\nOrtiz',Escobar-Ortiz
+57,7,alias_first_name_2,'Thomas\nOwen',ThomasOwen
+57,8,provider_type,'Consumer/Memb\ner',Consumer/Memb er
+57,9,alias_first_name_1,"'Osman,\nGarat Y'","Osman,Garat Y"
+58,14,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+59,3,last_name,'PENNEY-\nSMITH',PENNEY-SMITH
+59,9,alias_first_name_1,'RICHAR\nD',RICHARD
+59,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+60,3,alias_first_name_1,'JENNIFE\nR L.',JENNIFER L.
+60,3,alias_first_name_2,'JENNIFE\nR L.',JENNIFER L.
+60,3,alias_first_name_3,'JENNIFE\nR L.',JENNIFER L.
+60,5,last_name,'PLEASANT\nHILL HCF',PLEASANTHILL HCF
+60,6,first_name,'JACQUELIN\nE',JACQUELINE
+60,7,provider_type,'Medical\nTechnician',Medical Technician
+60,10,provider_type,'Business\nManager',Business Manager
+60,12,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+60,13,alias_first_name_1,'CHRISTI\nNE',CHRISTINE
+60,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+61,4,alias_first_name_1,'KIMBER\nLY A.',KIMBERLY A.
+61,5,provider_type,'20-Dental\nHygienist',20-Dental Hygienist
+61,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+61,15,provider_type,'Home Health\nAgency Employee',Home Health Agency Employee
+62,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+62,11,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+62,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+62,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+63,6,last_name,'RESTHAVEN\nNURSING\nHOME',RESTHAVENNURSINGHOME
+63,9,alias_first_name_1,'Mary\nAnne',MaryAnne
+63,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+64,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+64,4,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+64,5,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+64,7,alias_first_name_2,'Joseph\nCharles',JosephCharles
+64,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+64,11,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+65,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+65,3,last_name,'Robinson-\nHenry',Robinson-Henry
+65,3,alias_first_name_1,'Marjorie\nA',MarjorieA
+66,6,alias_first_name_2,'Joel\nSabean\nJr',JoelSabeanJr
+66,10,last_name,'Sanford-\nJohnson',Sanford-Johnson
+66,11,alias_first_name_1,'LORI\nEVANS',LORIEVANS
+66,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+67,9,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+67,14,last_name,'SCHWABE/LE\nAVITT',SCHWABE/LEAVITT
+67,14,alias_first_name_1,'CHRISTI\nNE',CHRISTINE
+67,14,alias_last_name_2,'SCHWAB\nE',SCHWABE
+67,14,alias_first_name_2,'CHRISTI\nNE M.',CHRISTINE M.
+68,2,provider_type,'42-Occupational\nTherapist',42-Occupational Therapist
+68,6,last_name,'Seacoast Sleep\nSolutions',Seacoast SleepSolutions
+68,7,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+68,12,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+68,13,first_name,'GLENWOO\nD',GLENWOOD
+69,4,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+69,6,alias_last_name_1,'SHINDERM\nAN',SHINDERMAN
+69,12,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+70,2,provider_type,'Business\nManager',Business Manager
+70,7,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+70,10,alias_first_name_1,'ROBIN\nE.',ROBINE.
+70,10,provider_type,'Nursing Home\nAdministrator',Nursing Home Administrator
+70,14,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+71,2,last_name,'SOLLNERSAW\nYER',SOLLNERSAWYER
+71,3,provider_type,'04-Alternative\nResidential\nFacility',04-Alternative Residential Facility
+71,5,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+72,6,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+72,12,alias_first_name_1,'KATHRY\nN B.',KATHRYN B.
+72,12,alias_first_name_2,'KATHRY\nN B.',KATHRYN B.
+72,12,alias_first_name_3,'CATHERI\nNE',CATHERINE
+72,12,alias_first_name_4,'KATHERI\nNE',KATHERINE
+73,3,first_name,'FREDERIC\nK',FREDERICK
+73,11,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+74,4,alias_first_name_1,'Rebecca\nLee',RebeccaLee
+74,9,provider_type,'02-Advanced\nPractice\nRegistered Nurse',02-Advanced Practice Registered Nurse
+74,12,alias_first_name_1,'Brittany\nR',BrittanyR
+75,6,alias_first_name_1,'MARRIA\nNNE K.',MARRIANNE K.
+75,6,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+75,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+75,13,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+76,3,last_name,'VAILLANCOUR\nT',VAILLANCOURT
+76,10,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+76,11,provider_type,'Business\nManager',Business Manager
+77,2,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+77,4,alias_first_name_1,'MONIQU\nE',MONIQUE
+77,7,provider_type,'11-Behavioral\nHealth Clinician',11-Behavioral Health Clinician
+78,6,last_name,'Wharton-\nGoodman',Wharton-Goodman
+78,6,alias_last_name_1,'Goodman\nWharton',GoodmanWharton
+78,11,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+79,2,provider_type,'Pharmacy\nTechnician',Pharmacy Technician
+79,14,alias_last_name_2,'Hamnergo\nulding',Hamnergoulding
+80,14,alias_first_name_3,'Traviscry\nstal',Traviscrystal
