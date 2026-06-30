@@ -154,15 +154,6 @@ Unified table combining all sources with standardized columns:
 - **Mixed date formats** — Normalized all dates to `YYYY-MM-DD`
 - **Business names embedded in name fields** — Cleaned and moved to `business_name` column
 
----
-
-## 📅 Development Timeline
-
-- **Week 1-2**: Data collection and research across 10 states
-- **Week 3-4**: PostgreSQL setup, staging table design, data cleaning scripts
-- **Week 5-6**: Main table creation, name splitting, data quality fixes
-- **Week 7**: Django web application development and UI refinement
-- **Week 8**: GitHub upload and project documentation
 
 ---
 
