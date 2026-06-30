@@ -7,3 +7,7 @@ db.sqlite3
 venv/
 .vscode/
 *.log
+*.dmg
+*.pdf
+*.csv
+*.xlsx
